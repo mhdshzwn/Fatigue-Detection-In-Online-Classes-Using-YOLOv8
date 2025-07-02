@@ -1,4 +1,4 @@
-🧠 Real-Time Fatigue Detection System
+ 🧠 Real-Time Fatigue Detection System
 This project is a browser-integrated system that detects student fatigue in online classes using YOLOv8. It utilizes a Chrome Extension to capture webcam frames from platforms like Google Meet, processes them via a Flask backend, and provides fatigue analytics through a real-time dashboard.
 
 📌 Features
